@@ -7,7 +7,7 @@ Based on [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11194310.svg)](http
   - [ ] Obtain event data from CDAWeb
 
 ## Demo 2: Ground-Based Conjugate Magnetometers
-  - [ ] Create Lua assets for each magnetometer (cf. https://docs.openspaceproject.com/en/latest/generated/asset-components/GlobeTranslation.html)
+  - [X] Create Lua assets for each magnetometer (cf. https://docs.openspaceproject.com/en/latest/generated/asset-components/GlobeTranslation.html)
   - [ ] Obtain event data for interplanetary shocks/ULF waves
 
 ## Demo 3: Parker Solar Probe
