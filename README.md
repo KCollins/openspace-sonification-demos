@@ -3,7 +3,8 @@ Files for sonification demos in OpenSpace.
 
 ## Demo 1: MMS Sonification
 Based on [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11194310.svg)](https://doi.org/10.5281/zenodo.11194310)
-  - [ ] Obtain orbital data (OMM, TLE, SPICE)
+  - [X] Obtain orbital data (OMM, TLE)
+  - [ ] Obtain more precise orbital data (SPICE or others)
   - [ ] Obtain event data from CDAWeb
 
 ## Demo 2: Ground-Based Conjugate Magnetometers
