@@ -16,9 +16,9 @@ Based on [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11194310.svg)](http
   - [ ] _Optional:_ Incorporate HSJ data from THEMIS satellites
 
 ## Demo 3: Parker Solar Probe
-  - [ ] Obtain OpenSpace assets for PSP
+  - [X] Obtain OpenSpace assets for PSP
   - [X] Obtain event data for [PSP encounters of interest](https://docs.google.com/presentation/d/17iao5nuVqNG4QqCkSLQfS7rI8ZNvGwcTG3ScgY854A4/edit#slide=id.g2e9cd736bb3_0_0)
-  - [ ] Select encounter to focus on
-  - [ ] Generate audified data at desired rate
+  - [X] Select encounter to focus on
+  - [X] Generate audified data at desired rate
   - [ ] Demonstrate audified event in OpenSpace
-  - [ ] Create demo video
+  - [X] Create demo video
